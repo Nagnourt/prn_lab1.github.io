@@ -8,15 +8,16 @@ C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinA
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.sourcelink.json
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
-C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources

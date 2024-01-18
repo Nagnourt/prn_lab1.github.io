@@ -1,10 +1,11 @@
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
-C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
-C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
-C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.sourcelink.json
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
 C:\Users\decid\OneDrive\Desktop\PRN211\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb

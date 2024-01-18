@@ -100,7 +100,6 @@
             txtCarName.Name = "txtCarName";
             txtCarName.Size = new System.Drawing.Size(215, 27);
             txtCarName.TabIndex = 6;
-
             // 
             // cboManufacturer
             // 
@@ -110,7 +109,6 @@
             cboManufacturer.Name = "cboManufacturer";
             cboManufacturer.Size = new System.Drawing.Size(215, 28);
             cboManufacturer.TabIndex = 7;
-
             // 
             // txtPrice
             // 
@@ -120,7 +118,6 @@
             txtPrice.Size = new System.Drawing.Size(215, 27);
             txtPrice.TabIndex = 8;
             txtPrice.Text = "0";
-
             // 
             // txtReleaseYear
             // 
@@ -140,6 +137,7 @@
             btnSave.TabIndex = 10;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
             // 
             // btnCancel
             // 
@@ -150,6 +148,7 @@
             btnCancel.TabIndex = 11;
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
             // 
             // frmCarDetails
             // 

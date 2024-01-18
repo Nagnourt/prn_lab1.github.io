@@ -79,11 +79,12 @@ namespace AutomobileWinApp
                 txtManufacturer.DataBindings.Clear();
                 txtPrice.DataBindings.Clear();
                 txtReleaseYear.DataBindings.Clear();
-                txtCarID.DataBindings.Add("Text", source, "“CarID");
-                txtCarName.DataBindings.Add("“Text", source, "“CarName");
-                txtManufacturer.DataBindings.Add("“Text", source, "“Manufacturer");
+
+                txtCarID.DataBindings.Add("Text", source, "CarID");
+                txtCarName.DataBindings.Add("Text", source, "CarName");
+                txtManufacturer.DataBindings.Add("Text", source, "Manufacturer");
                 txtPrice.DataBindings.Add("Text", source, "Price");
-                txtReleaseYear.DataBindings.Add("Text", source, "“ReleaseYear");
+                txtReleaseYear.DataBindings.Add("Text", source, "ReleaseYear");
                 dgvCarList.DataSource = null;
                 dgvCarList.DataSource = source;
                 if (cars.Count() == 0)

@@ -97,7 +97,6 @@
             txtCarID.Name = "txtCarID";
             txtCarID.Size = new System.Drawing.Size(223, 27);
             txtCarID.TabIndex = 5;
-
             // 
             // txtReleaseYear
             // 
@@ -112,7 +111,6 @@
             txtManufacturer.Name = "txtManufacturer";
             txtManufacturer.Size = new System.Drawing.Size(223, 27);
             txtManufacturer.TabIndex = 7;
-
             // 
             // txtCarName
             // 
@@ -136,6 +134,7 @@
             btnLoad.TabIndex = 10;
             btnLoad.Text = "Load";
             btnLoad.UseVisualStyleBackColor = true;
+            btnLoad.Click += btnLoad_Click;
             // 
             // btnNew
             // 
@@ -145,6 +144,7 @@
             btnNew.TabIndex = 11;
             btnNew.Text = "New";
             btnNew.UseVisualStyleBackColor = true;
+            btnNew.Click += btnNew_Click;
             // 
             // btnDelete
             // 
@@ -154,6 +154,7 @@
             btnDelete.TabIndex = 12;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // dgvCarList
             // 
@@ -166,7 +167,7 @@
             dgvCarList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             dgvCarList.Size = new System.Drawing.Size(798, 194);
             dgvCarList.TabIndex = 13;
-
+            dgvCarList.DoubleClick += btnNew_Click;
             // 
             // btnClose
             // 
@@ -176,6 +177,7 @@
             btnClose.TabIndex = 14;
             btnClose.Text = "Close";
             btnClose.UseVisualStyleBackColor = true;
+            btnClose.Click += btnClose_Click;
             // 
             // frmCarManagement
             // 
